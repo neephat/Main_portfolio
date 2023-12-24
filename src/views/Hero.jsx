@@ -37,11 +37,11 @@ const Hero = () => {
               initial="hidden"
               whileInView="visible"
               viewport={{once: false}}
-              className='w-full xl:w-fit text-center py-12 xl:text-start text-4xl sm:text-6xl lg:text-8xl font-bold text-textPrimary uppercase'>
+              className='w-full xl:w-fit text-center py-12 xl:text-start text-3xl sm:text-5xl lg:text-7xl font-bold text-textPrimary uppercase'>
               Creative
               <br />
               <span className='text-secondary'>
-                <Typewriter words={["Developer", "Designer"]} cursor cursorStyle="_" typeSpeed={250} deleteSpeed={150} loop/>
+                <Typewriter words={["Web Wizard", "Full Stack Developer"]} cursor cursorStyle="_" typeSpeed={250} deleteSpeed={150} loop/>
               </span>
             </motion.h1> 
 
