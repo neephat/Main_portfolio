@@ -3,7 +3,7 @@
 import aboutIllustration from "../assets/about-illustration.svg";
 import facebookIcon from "../assets/facebook-icon.svg";
 import githubIcon from "../assets/github-icon.svg";
-import LinkedInIcon from "../assets/LinkedIn-icon.svg";
+import LinkedInIcon from "../assets/linkedIn-icon.svg";
 
 // components
 import SocialMediaIcon from '../components/SocialMediaIcon'
