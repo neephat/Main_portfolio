@@ -44,7 +44,7 @@ const About = () => {
           </Reveal>
           <Reveal>
             <p className="text-center xl:text-start text-base sm:text-lg text-textSecondary">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique sapiente repudiandae fugiat perspiciatis facilis, velit atque pariatur recusandae, beatae numquam dolore nihil dolorum laudantium ad dolorem porro rerum expedita adipisci!
+              I am Neephat Benazir graduated from AIUB in CSE. I'm a MERN stack web developer specializing in stunning web experiences. With expertise in MongoDB, Express.js, React.js, and Node.js, I create captivating, responsive websites and applications. Let's bring your web projects to life!
             </p>
           </Reveal>
           
